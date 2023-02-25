@@ -9,3 +9,4 @@ The assembly file is a bit messy as I just hid the smaller parts and put the new
 
 The only parts you need for this are the 3 blades, new fixed blades, and new spacer. 
 
+spacer and fixed blade needed is the 51mm version
