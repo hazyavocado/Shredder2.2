@@ -1,4 +1,4 @@
-# Shredder 2.2
+# Shredder 2.2 - straight fixed blade version
 ![3 straight](https://user-images.githubusercontent.com/71194240/221377631-2f1b5276-7b80-4f13-86cf-31e33d18b2ca.JPG)
 
 based on Precious plastic shredder 2.1
