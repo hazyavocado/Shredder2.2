@@ -10,3 +10,7 @@ gap of 0.25mm between fixed and rotating blades
 The only parts you need for this are the 3 blades, new fixed blades, and new spacer. 
 
 spacer and fixed blade needed is the 51mm version
+
+blade shape taken from shredder pro 13-blade design, the sldprt file allows you to change configurations to pick blades per cutting disk. I have them set to 3 blades which gives at minimum 2 cuts at a time. 
+
+NOTE - do not install the blades as shown. they should be randomly arranged to keep un-shredded material from clumping against one side.
